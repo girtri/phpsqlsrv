@@ -1,6 +1,6 @@
 <?php
 $serverName = "Gerry_win81";
-//$serverName = "192.168.56.1";
+$serverName = "tcp:192.168.56.1,1433";
 
 $connectionInfo = array(
     "Database" => "Test_01",
