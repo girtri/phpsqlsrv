@@ -1,0 +1,7 @@
+
+Build process completed successfully
+Installing '/usr/lib/php/20151012/sqlsrv.so'
+Extension sqlsrv enabled in php.ini
+
+Installing '/usr/lib/php/20151012/pdo_sqlsrv.so'
+Extension pdo_sqlsrv enabled in php.ini
